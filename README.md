@@ -7,18 +7,18 @@ See the autograder tutorial in Project 0 for more information about using the au
 The code for this project consists of several Python files, some of which you will need to read and understand in order to complete the
 assignment, and some of which you can ignore. You can download all the code and supporting files as a search.zip.
 
-**Files you'll edit:**
+| Files you'll edit:       |                             |
 |--------------------------|-----------------------------|
 | `search.py`              | Where all of your search algorithms will reside. |
 | `searchAgents.py`        | Where all of your search-based agents will reside. |
 
-**Files you might want to look at:**
+| Files you might want to look at: |                             |
 |----------------------------------|-----------------------------|
 | `pacman.py`                      | The main file that runs Pacman games. This file describes a Pacman GameState type, which you use in this project. |
 | `game.py`                        | The logic behind how the Pacman world works. This file describes several supporting types like AgentState, Agent, Direction, and Grid. |
 | `util.py`                        | Useful data structures for implementing search algorithms. |
 
-**Supporting files you can ignore:**
+| Supporting files you can ignore: |                             |
 |----------------------------------|-----------------------------|
 | `graphicsDisplay.py`             | Graphics for Pacman         |
 | `graphicsUtils.py`               | Support for Pacman graphics |
@@ -31,6 +31,7 @@ assignment, and some of which you can ignore. You can download all the code and 
 | `testClasses.py`                 | General autograding test classes |
 | `test_cases/`                    | Directory containing the test cases for each question |
 | `searchTestClasses.py`           | Project 1 specific autograding test classes |
+
 
 Files to Edit and Submit: You will fill in portions of search.py and searchAgents.py during the assignment. Once you have completed
 the assignment, you will submit these files to Gradescope (for instance, you can upload all .py files in the folder). Please do not change the
